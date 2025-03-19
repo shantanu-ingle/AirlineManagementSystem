@@ -103,3 +103,23 @@ Create a new request.
 Set the method (GET/POST/DELETE) and URL (e.g., http://localhost:8080/api/flights).
 For POST, add the JSON body under the "Body" tab (raw, JSON format).
 Send the request and view the response.
+
+Images:
+
+Booking a ticket:
+
+![Screenshot 2025-03-19 192651](https://github.com/user-attachments/assets/daf1bb71-0ebc-4f63-8afc-436d6518d984)
+
+Cancelling a ticket:
+
+![Screenshot 2025-03-19 192554](https://github.com/user-attachments/assets/9f8f813b-e177-4f40-92e0-c59198794cf5)
+![Screenshot 2025-03-19 192605](https://github.com/user-attachments/assets/0b5e3ce6-457a-4632-9652-be912d2bc86a)
+
+Get ticket details:
+
+![Screenshot 2025-03-19 192408](https://github.com/user-attachments/assets/4c4a3c37-c544-4a71-a801-f0edcaf95b0b)
+
+Get flight schedule:
+
+![Screenshot 2025-03-19 192355](https://github.com/user-attachments/assets/fcf77bd2-3967-45a8-9304-b7e944ed8277)
+![Screenshot 2025-03-19 192130](https://github.com/user-attachments/assets/ca342c39-c9ea-4a64-aedd-2a156da06224)
