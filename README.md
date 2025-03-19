@@ -106,6 +106,8 @@ Send the request and view the response.
 
 Images:
 
+![image](https://github.com/user-attachments/assets/10aa48d1-bacc-4e2f-8939-bd57df2cc6eb)
+
 Booking a ticket:
 
 ![Screenshot 2025-03-19 192651](https://github.com/user-attachments/assets/daf1bb71-0ebc-4f63-8afc-436d6518d984)
